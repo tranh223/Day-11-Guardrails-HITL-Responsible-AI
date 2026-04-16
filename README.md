@@ -6,7 +6,7 @@ Day 11 — Guardrails, HITL & Responsible AI: How to make agent applications saf
 
 - Understand why guardrails are mandatory for AI products
 - Implement input guardrails (injection detection, topic filter)
-- Implement output guardrails (content filter, LLM-as-Judge)
+- Implement output guardrails (content filter, LLM-as-Judge)    
 - Use NeMo Guardrails (NVIDIA) with Colang
 - Design HITL workflow with confidence-based routing
 - Perform basic red teaming
